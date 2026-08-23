@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: AI Tools Gems
+    url: https://aitoolsgems.netlify.app/
+    about: Visit our AI tools directory
+  - name: AI Tool Finder
+    url: https://aitoolsgems.netlify.app/ai-tool-finder/
+    about: Find the right AI tool for you
+  - name: Best AI Tools 2026
+    url: https://aitoolsgems.netlify.app/best-ai-tools-2026/
+    about: See our top AI tool picks
