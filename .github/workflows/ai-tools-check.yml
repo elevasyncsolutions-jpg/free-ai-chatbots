@@ -1,0 +1,16 @@
+name: AI Tools Check
+
+on:
+  schedule:
+    - cron: '0 0 * * 0'  # Weekly
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check AI Tools
+        run: |
+          echo "Checking AI Tools Gems..."
+          echo "Website: https://aitoolsgems.netlify.app/"
+          echo "AI Tool Finder: https://aitoolsgems.netlify.app/ai-tool-finder/"
+          echo "Best AI Tools 2026: https://aitoolsgems.netlify.app/best-ai-tools-2026/"
